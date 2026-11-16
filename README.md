@@ -40,4 +40,4 @@ Then upload the CSV in **Shopify Admin → Products → Import**.
 
 ## Author
 
-**Sajawal Dastagir**, E-commerce & Shopify Specialist · [Portfolio](https://github.com/sajawalleo) · sajawalkh121@gmail.com
+**Sajawal Dastagir**, E-commerce & Shopify Specialist · [Portfolio](https://sajawal-dastagir.vercel.app) · [GitHub](https://github.com/sajawalleo) · sajawalkh121@gmail.com
