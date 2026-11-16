@@ -1,6 +1,6 @@
 # Shopify Product Scraper 🛒🐍
 
-A Python scraper that collects product data from an online store and converts it into a **Shopify-ready bulk import CSV**, mapping titles, prices, stock, categories, descriptions, images, tags and SEO fields.
+A Python scraper that collects product data from an online store and converts it into a **Shopify-ready bulk import CSV**, mapping titles, prices, stock, categories, descriptions, images and tags.
 
 This demo targets [books.toscrape.com](https://books.toscrape.com), a public sandbox website built for scraping practice.
 
